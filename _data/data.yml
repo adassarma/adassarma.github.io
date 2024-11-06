@@ -108,8 +108,8 @@ experiences:
         time: Summer 2024
         company: University of Wisconsin Madison
         details: |
-            - Worked on ICCAD 2024 contest Problem B under the supervision of Prof Tsung-Wei(TW) Huang.
-            - Received a honorable mention(6th place) finish.
+            - Worked on ICCAD 2024 contest Problem B (Power and Timing Optimization using Multi-Bit Flipflops) under the supervision of Prof Tsung-Wei(TW) Huang.
+            - Received a honorable mention (6th place) finish.
       - role: Teaching Assistant
         time: 2023 - Present
         company: University of Wisconsin Madison
@@ -176,7 +176,7 @@ experiences:
 projects:
     title: Achievements
     assignments:
-      - title: Honorable Mention (6th place out of 90) in ICCAD Contest
+      - title: Honorable Mention (6th place out of 90) in ICCAD 2024 Contest
         #link: "#hook"
         #tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
