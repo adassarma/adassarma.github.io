@@ -59,10 +59,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a second-year Ph.D. student at the Department of Computer Sciences 
-      at the University of Wisconsin-Madison, advised by Prof. Tsung-Wei(TW) Huang. 
-      My research has focused on Power and Timing Optimization using Multi-Bit Flipflops,
-      Parallel Computing, Design Automation and High Performance Computing. My CV in PDF form
+      I am a first-year Ph.D. student at the Department of Computer Sciences 
+      at the University of Wisconsin-Madison, advised by Prof. Tsung-Wei (TW) Huang. 
+      My research focuses on High Performance Computing and Physical Design Automation Algorithms. My CV in PDF form
       can be found [**here**](https://drive.google.com/file/d/1XzSzfyHyNNLz41LosoMc2ZzbERrU3tJ6/view?usp=sharing).
 education:
     title: Education
@@ -109,7 +108,7 @@ experiences:
         company: University of Wisconsin Madison
         details: |
             - Worked on ICCAD 2024 contest Problem B (Power and Timing Optimization using Multi-Bit Flipflops) under the supervision of Prof Tsung-Wei(TW) Huang.
-            - Received a honorable mention (6th place) finish.
+            - Placed 6th out of 90 teams (with Honorable Mention).
       - role: Teaching Assistant
         time: 2023 - Present
         company: University of Wisconsin Madison
@@ -176,7 +175,7 @@ experiences:
 projects:
     title: Achievements
     assignments:
-      - title: Honorable Mention (6th place out of 90) in ICCAD 2024 Contest
+      - title: Placed 6th place out of 90 teams (with Honorable Mention) in ICCAD 2024 Contest
         #link: "#hook"
         #tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
@@ -184,7 +183,7 @@ projects:
         #link: "#"
         #tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Ranked 208(top 0.01%) out of nearly 100k students appearing at the state level university entrance examination 
+      - title: Ranked 208 (top 0.01%) out of nearly 100k students appearing at the state level university entrance examination 
         #link: "#"
         #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
