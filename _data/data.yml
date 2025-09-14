@@ -59,9 +59,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a first-year Ph.D. student at the Department of Computer Sciences 
+      I am a second-year Ph.D. student at the Department of Computer Sciences 
       at the University of Wisconsin-Madison, advised by Prof. Tsung-Wei (TW) Huang. 
-      My research focuses on High Performance Computing and Physical Design Automation Algorithms. My CV in PDF form
+      My research focuses on Differentiable Optimization, High Performance Computing and Physical Design Automation Algorithms. My CV in PDF form
       can be found [**here**](https://drive.google.com/file/d/1XzSzfyHyNNLz41LosoMc2ZzbERrU3tJ6/view?usp=sharing).
 education:
     title: Education
@@ -103,6 +103,12 @@ education:
 experiences:
     title: Experience
     info:
+      - role: Research and Development Engineering Intern
+        time: Summer 2025
+        company: Synopsys Inc.
+        details: |
+            - Worked on fixing bugs in the front-end of the Fusion Compiler (flagship product).
+            - Introduced memory optimizations save upto 33% in peak memory utilization.
       - role: Research Assistant
         time: Summer 2024
         company: University of Wisconsin Madison
@@ -219,8 +225,13 @@ publications:
     intro: |
       Conference Papers and Journals
     papers:
+      - title: TIMBER: A Fast Algorithm for Timing and Power Optimization using Multi-bit Flip-flops
+        link: ""
+        authors: Aditya Das Sarma, Shui Jiang, Wan Luan Lee, Tsung-Yi Ho, Tsung-Wei Huang
+        conference: 2026 IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)
+        
       - title: A shallow hybrid classical–quantum spiking feedforward neural network for noise-robust image classification
-        link: "https://drive.google.com/file/d/1WnbcmpnIw7GsdZDA5xikRIOflnbqnUwU/view"
+        link: "https://www.sciencedirect.com/science/article/pii/S1568494623001175"
         authors: Konar D.,Das Sarma A.,Bhandary S.,Bhattacharyya S.,Cangi A.,Aggarwal V.
         conference: Elsevier Applied Soft Computing
 
