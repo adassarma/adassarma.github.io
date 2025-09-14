@@ -225,7 +225,7 @@ publications:
     intro: |
       Conference Papers and Journals
     papers:
-      - title: TIMBER: A Fast Algorithm for Timing and Power Optimization using Multi-bit Flip-flops
+      - title: "TIMBER: A Fast Algorithm for Timing and Power Optimization using Multi-bit Flip-flops"
         link: ""
         authors: Aditya Das Sarma, Shui Jiang, Wan Luan Lee, Tsung-Yi Ho, Tsung-Wei Huang
         conference: 2026 IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)
