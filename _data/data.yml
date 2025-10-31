@@ -61,8 +61,9 @@ career-profile:
     summary: |
       I am a second-year Ph.D. student at the Department of Computer Sciences 
       at the University of Wisconsin-Madison, advised by Prof. Tsung-Wei (TW) Huang. 
-      My research focuses on Differentiable Optimization, High Performance Computing and Physical Design Automation Algorithms. My CV in PDF form
-      can be found [**here**](https://drive.google.com/file/d/1XzSzfyHyNNLz41LosoMc2ZzbERrU3tJ6/view?usp=sharing).
+      My research focuses on Differentiable Optimization, High Performance Computing and Electronic Design Automation Algorithms. 
+      Currently, my research focuses on automatically finding optimal partitioning strategies for computational graphs. My skillset
+      includes C/C++, JAX/XLA and MLIR.
 education:
     title: Education
     info:
@@ -121,21 +122,6 @@ experiences:
         details: |
             - TA for Operating Systems
             - Organized discussion lectures and programming projects for this course
-      - role: Summer Research Internship
-        time: 2022 - 2023
-        company: Center for Advanced Systems Understanding, Dresden, Germany
-        details: |
-          Formulated kernels
-          for predicting density and total energy of Beryllium atoms from snapshots. Proposed kernels outperformed RBF
-          kernel by two orders of magnitude and gave comparable results to the state of the art neural network models.
-      - role: Summer Research Internship
-        time: 2021-2022
-        company: Helmholtz-Zentrum Dresden Rossendorf, Dresden, Germany
-        details: |
-          Worked on a quadratic unconstrained binary optimization problem for decoding LDPC codes in AWGN & Rayleigh
-          Fading Channel scenarios. Implemented a complete simulation of a communication system and tested under
-          different channel noise intensities. Achieved lower Bit Error Rates using a programmable annealing device as
-          compared to Max-Belief Decoding strategies.
 
 # achievements:
 #       title: Certifications
@@ -225,6 +211,11 @@ publications:
     intro: |
       Conference Papers and Journals
     papers:
+      - title: "A New Differentiable Approach to Task Graph Partitioning: A Case Study in RTL Simulation"
+        link: ""
+        authors: Aditya Das Sarma, Tsung-Wei Huang
+        conference: Submitted to 2026 Design Automation Conference (DAC)
+
       - title: "TIMBER: A Fast Algorithm for Timing and Power Optimization using Multi-bit Flip-flops"
         link: ""
         authors: Aditya Das Sarma, Shui Jiang, Wan Luan Lee, Tsung-Yi Ho, Tsung-Wei Huang
