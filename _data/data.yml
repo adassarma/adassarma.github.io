@@ -61,7 +61,7 @@ career-profile:
     summary: |
       I am a second-year Ph.D. student at the Department of Computer Sciences 
       at the University of Wisconsin-Madison, advised by Prof. Tsung-Wei (TW) Huang. 
-      My research focuses on machine learning for systems and parallel and distributed computing. My skillset
+      My research focuses on machine learning for systems, differentiable optimization and parallel and computing. My skillset
       includes C/C++ and JAX/XLA.
 education:
     title: Education
