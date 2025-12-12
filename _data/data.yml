@@ -62,7 +62,7 @@ career-profile:
       I am a second-year Ph.D. student at the Department of Computer Sciences 
       at the University of Wisconsin-Madison, advised by Prof. Tsung-Wei (TW) Huang. 
       My research focuses on machine learning for systems, differentiable optimization and parallel computing. My skillset
-      includes C/C++ and JAX/XLA.
+      includes C/C++ and JAX/XLA. Currently, I am working on automatic differentiable tuning methods for tensor programs on heterogenous hardware.
 education:
     title: Education
     info:
