@@ -59,9 +59,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a second-year Ph.D. student at the Department of Computer Sciences 
+      I am a third-year Ph.D. student at the Department of Computer Sciences 
       at the University of Wisconsin-Madison, advised by Prof. Tsung-Wei (TW) Huang. 
-      My research focuses on machine learning for systems, differentiable optimization and parallel computing. My skillset
+      My research focuses on machine learning for systems and chip design, differentiable optimization and parallel computing. My skillset
       includes C/C++ and JAX/XLA. Currently, I am working on automatic differentiable tuning methods for tensor programs on heterogenous hardware.
 education:
     title: Education
@@ -210,6 +210,11 @@ publications:
     intro: |
       Conference Papers and Journals
     papers:
+      - title: "DiffTile: Differentiable Tiling for Accelerating Irregular Tensor Programs on GPU Tensor Cores"
+        link: ""
+        authors: Aditya Das Sarma, Tsung-Wei Huang
+        conference: Submitted to International European Conference on Parallel and Distributed Computing (Euro-Par)
+
       - title: "A New Differentiable Approach to Task Graph Partitioning: A Case Study in RTL Simulation"
         link: ""
         authors: Aditya Das Sarma, Wan-Luan Lee, Shui Jiang, Boyang Zhang, Tsung-Wei Huang
@@ -219,6 +224,11 @@ publications:
         link: "https://tsung-wei-huang.github.io/papers/2025-ASPDAC-TIMBER.pdf"
         authors: Aditya Das Sarma, Shui Jiang, Wan Luan Lee, Tsung-Yi Ho, Tsung-Wei Huang
         conference: 2026 IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)
+
+      - title: Random Quantum Neural Networks (RQNN) for Noisy Image Recognition
+        link: "https://arxiv.org/abs/2203.01764"
+        authors: Debanjan Konar, Erol Gelenbe, Soham Bhandary, Aditya Das Sarma, Attila Cangi
+        conference: IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
         
       - title: A shallow hybrid classical–quantum spiking feedforward neural network for noise-robust image classification
         link: "https://www.sciencedirect.com/science/article/pii/S1568494623001175"
