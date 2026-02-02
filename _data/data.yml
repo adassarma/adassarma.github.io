@@ -210,11 +210,7 @@ publications:
     intro: |
       Conference Papers and Journals
     papers:
-      - title: "DiffTile: Differentiable Tiling for Accelerating Irregular Tensor Programs on GPU Tensor Cores"
-        link: ""
-        authors: Aditya Das Sarma, Tsung-Wei Huang
-        conference: Submitted to International European Conference on Parallel and Distributed Computing (Euro-Par)
-
+    
       - title: "A New Differentiable Approach to Task Graph Partitioning: A Case Study in RTL Simulation"
         link: ""
         authors: Aditya Das Sarma, Wan-Luan Lee, Shui Jiang, Boyang Zhang, Tsung-Wei Huang
