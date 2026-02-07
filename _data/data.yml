@@ -108,7 +108,7 @@ experiences:
         company: Synopsys Inc.
         details: |
             - Worked on fixing bugs in the front-end of the Fusion Compiler (flagship product).
-            - Introduced memory optimizations save upto 33% in peak memory utilization.
+            - Introduced memory optimizations to save upto 33% in peak memory utilization.
       - role: Research Assistant
         time: Summer 2024
         company: University of Wisconsin Madison
