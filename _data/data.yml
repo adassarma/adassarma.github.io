@@ -221,6 +221,11 @@ publications:
         authors: Aditya Das Sarma, Shui Jiang, Wan Luan Lee, Tsung-Yi Ho, Tsung-Wei Huang
         conference: 2026 IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)
 
+      - title: "iHyperG: Incremental Hypergraph Partitioning on GPU"
+        link: ""
+        authors: Wan-Luan Lee, Aditya Das Sarma, Che Chang, Chih-Chun Chang, and Tsung-Wei Huang
+        conference: 2026 Design Automation Conference (DAC)
+
       - title: Random Quantum Neural Networks (RQNN) for Noisy Image Recognition
         link: "https://arxiv.org/abs/2203.01764"
         authors: Debanjan Konar, Erol Gelenbe, Soham Bhandary, Aditya Das Sarma, Attila Cangi
