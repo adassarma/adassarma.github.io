@@ -214,7 +214,7 @@ publications:
       - title: "A New Differentiable Approach to Task Graph Partitioning: A Case Study in RTL Simulation"
         link: ""
         authors: Aditya Das Sarma, Wan-Luan Lee, Shui Jiang, Boyang Zhang, Tsung-Wei Huang
-        conference: Submitted to 2026 Design Automation Conference (DAC)
+        conference: 2026 Design Automation Conference (DAC)
 
       - title: "TIMBER: A Fast Algorithm for Timing and Power Optimization using Multi-bit Flip-flops"
         link: "https://tsung-wei-huang.github.io/papers/2025-ASPDAC-TIMBER.pdf"
